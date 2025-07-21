@@ -8,8 +8,7 @@ A simple and interactive **Tic Tac Toe** game built using **Python's Tkinter lib
 
 
 ![Tic Tac Toe GUI Screenshot](https://via.placeholder.com/400x300?text=Tic+Tac+Toe+Game+GUI)  
-*Sample interface of the game on Windows (Replace this with your screenshot)*
-
+*Sample interface of the game on Windows 
 
 ---
 
